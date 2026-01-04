@@ -1,0 +1,97 @@
+{
+  "title": "Rock and Roll: 10 Mind-Blowing Facts",
+  "totalDuration": 75,
+  "backgroundMood": "energizing and rebellious",
+  "scenes": [
+    {
+      "sceneId": 1,
+      "startTime": 0,
+      "endTime": 8,
+      "duration": 8,
+      "factText": "Rock and roll originated in the southern United States in the early 1950s",
+      "voiceNarration": "Did you know that rock and roll was born in the southern US in the 50s?",
+      "imagePrompt": "Vintage cars driving down a rural road, musicians playing guitars, classic American landscape, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 1 of 10"
+    },
+    {
+      "sceneId": 2,
+      "startTime": 8,
+      "endTime": 16,
+      "duration": 8,
+      "factText": "Chuck Berry's guitar riffs were considered revolutionary for their time",
+      "voiceNarration": "Chuck Berry's guitar riffs changed music forever with their bold style!",
+      "imagePrompt": "Chuck Berry performing on stage, spotlight shining, guitar in hand, 50s rockabilly attire, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 2 of 10"
+    },
+    {
+      "sceneId": 3,
+      "startTime": 16,
+      "endTime": 24,
+      "duration": 8,
+      "factText": "The first rock and roll song was 'That'll Be the Day' by Buddy Holly",
+      "voiceNarration": "Buddy Holly's 'That'll Be the Day' is widely considered the first true rock and roll song!",
+      "imagePrompt": "Vintage black and white photo of Buddy Holly, microphone in hand, 50s rockstar pose, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 3 of 10"
+    },
+    {
+      "sceneId": 4,
+      "startTime": 24,
+      "endTime": 32,
+      "duration": 8,
+      "factText": "Elvis Presley was initially called 'the Hillbilly Cat' before his fame",
+      "voiceNarration": "Elvis started out as the Hillbilly Cat from Tupelo, Mississippi!",
+      "imagePrompt": "Vintage photo of Elvis Presley with guitar, dressed in 50s country attire, rural American landscape, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 4 of 10"
+    },
+    {
+      "sceneId": 5,
+      "startTime": 32,
+      "endTime": 40,
+      "duration": 8,
+      "factText": "The Beatles released 'Love Me Do' in 1962, their first single",
+      "voiceNarration": "The Beatles kicked off their career with the catchy 'Love Me Do'!",
+      "imagePrompt": "Vintage photo of The Beatles band members, smiling and holding guitars, 60s British Invasion style, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 5 of 10"
+    },
+    {
+      "sceneId": 6,
+      "startTime": 40,
+      "endTime": 47,
+      "duration": 7,
+      "factText": "Jimi Hendrix's guitar playing was heavily influenced by blues",
+      "voiceNarration": "Jimi Hendrix's innovative playing was deeply rooted in the blues!",
+      "imagePrompt": "Vintage photo of Jimi Hendrix on stage, wearing colorful clothing, playing his iconic Fender Stratocaster, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 6 of 10"
+    },
+    {
+      "sceneId": 7,
+      "startTime": 47,
+      "endTime": 54,
+      "duration": 7,
+      "factText": "The Rolling Stones' 'Satisfaction' was one of the first rock songs to use distortion",
+      "voiceNarration": "Keith Richards' riff in The Rolling Stones' 'Satisfaction' was a game-changer for rock music!",
+      "imagePrompt": "Vintage photo of Keith Richards playing his guitar, with distortion and feedback effects, 60s psychedelic art style, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 7 of 10"
+    },
+    {
+      "sceneId": 8,
+      "startTime": 54,
+      "endTime": 61,
+      "duration": 7,
+      "factText": "Pink Floyd's 'Dark Side of the Moon' spent 741 weeks on the Billboard chart",
+      "voiceNarration": "Pink Floyd's iconic album 'The Dark Side of the Moon' became a timeless classic!",
+      "imagePrompt": "Vintage photo of Pink Floyd band members, wearing psychedelic clothing, holding instruments, 70s music scene, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 8 of 10"
+    },
+    {
+      "sceneId": 9,
+      "startTime": 61,
+      "endTime": 68,
+      "duration": 7,
+      "factText": "Queen's 'Bohemian Rhapsody' was initially rejected by several radio stations",
+      "voiceNarration": "Queen's epic 'Bohemian Rhapsody' faced initial rejection from some radio stations!",
+      "imagePrompt": "Vintage photo of Queen band members, wearing dramatic clothing, holding microphones, 70s rock opera style, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 9 of 10"
+    },
+    {
+      "sceneId": 10,
+      "startTime": 68,
+      "endTime": 75,
+      "duration": 7,
+      "factText": "Guns N' Roses' 'Sweet Child O' Mine' features a distinctive guitar solo by Slash",
+      "voiceNarration": "Slash's iconic guitar work in Guns N' Roses' 'Sweet Child O' Mine' is forever etched in music history!",
+      "imagePrompt": "Vintage photo of Slash playing his guitar, with Axl Rose singing, 80s rockstar pose, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 10 of 10"
+    }
+  ]
+}
