@@ -1,0 +1,97 @@
+{
+  "title": "10 Mind-Blowing Facts About The Batman",
+  "totalDuration": 75,
+  "backgroundMood": "dark and mysterious",
+  "scenes": [
+    {
+      "sceneId": 1,
+      "startTime": 0,
+      "endTime": 8,
+      "duration": 8,
+      "factText": "The Batman's real name is Bruce Wayne, a billionaire philanthropist.",
+      "voiceNarration": "Did you know the Dark Knight's secret identity is that of billionaire Bruce Wayne?",
+      "imagePrompt": "Bruce Wayne standing in front of a Gotham City skyline at sunset, luxurious lifestyle, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 1 of 10"
+    },
+    {
+      "sceneId": 2,
+      "startTime": 8,
+      "endTime": 16,
+      "duration": 8,
+      "factText": "Batman's origin story began with his parents' tragic murder as a child.",
+      "voiceNarration": "Young Bruce Wayne's life was forever changed by the brutal murder of his parents in front of him.",
+      "imagePrompt": "A young Bruce Wayne standing at his parents' gravesite, Gotham City rainstorm, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 2 of 10"
+    },
+    {
+      "sceneId": 3,
+      "startTime": 16,
+      "endTime": 24,
+      "duration": 8,
+      "factText": "The Batman's trusted sidekick is Robin, a young crime-fighter.",
+      "voiceNarration": "Robin has been the Dynamic Duo's trusty sidekick and protégé for years!",
+      "imagePrompt": "Batman and Robin standing together in front of the Bat-Signal, superhero pose, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 3 of 10"
+    },
+    {
+      "sceneId": 4,
+      "startTime": 24,
+      "endTime": 32,
+      "duration": 8,
+      "factText": "The Joker is one of Batman's most iconic villains, known for his chaotic nature.",
+      "voiceNarration": "He's unpredictable, insane, and has a twisted sense of humor - the Clown Prince of Crime!",
+      "imagePrompt": "Joker laughing maniacally in front of a Gotham City backdrop, colorful crime scene, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 4 of 10"
+    },
+    {
+      "sceneId": 5,
+      "startTime": 32,
+      "endTime": 40,
+      "duration": 8,
+      "factText": "Batman's utility belt is equipped with an array of gadgets to help him fight crime.",
+      "voiceNarration": "This trusty tool has become synonymous with the Dark Knight's heroics!",
+      "imagePrompt": "Batman holding his utility belt, various gadgets and tools on display, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 5 of 10"
+    },
+    {
+      "sceneId": 6,
+      "startTime": 40,
+      "endTime": 47,
+      "duration": 7,
+      "factText": "The Batman's butler Alfred Pennyworth is a loyal ally and confidant.",
+      "voiceNarration": "Alfred has been by Bruce Wayne's side through thick and thin!",
+      "imagePrompt": "Alfred serving tea in the Wayne Manor study, classic British gentleman attire, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 6 of 10"
+    },
+    {
+      "sceneId": 7,
+      "startTime": 47,
+      "endTime": 54,
+      "duration": 7,
+      "factText": "Commissioner James Gordon is a trusted ally and friend to Batman.",
+      "voiceNarration": "He's a true hero and a beacon of hope for Gotham City's citizens!",
+      "imagePrompt": "Commissioner Gordon standing in front of the GCPD logo, determined expression, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 7 of 10"
+    },
+    {
+      "sceneId": 8,
+      "startTime": 54,
+      "endTime": 61,
+      "duration": 7,
+      "factText": "The Batcave is Batman's secret headquarters and base of operations.",
+      "voiceNarration": "This high-tech lair has become a symbol of hope for Gotham City!",
+      "imagePrompt": "Batman standing in front of the Bat-Signal at night, Batcave interior, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 8 of 10"
+    },
+    {
+      "sceneId": 9,
+      "startTime": 61,
+      "endTime": 68,
+      "duration": 7,
+      "factText": "Lucius Fox is a close friend and business partner to Bruce Wayne.",
+      "voiceNarration": "He's a tech genius and one of Batman's most trusted allies!",
+      "imagePrompt": "Lucius Fox working on advanced technology in the Batcave, futuristic equipment, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 9 of 10"
+    },
+    {
+      "sceneId": 10,
+      "startTime": 68,
+      "endTime": 75,
+      "duration": 7,
+      "factText": "Batman's iconic vehicle is the Batmobile, an iconic symbol of justice.",
+      "voiceNarration": "The Batmobile has become synonymous with speed and protection!",
+      "imagePrompt": "The Batmobile speeding through Gotham City streets at night, sleek design, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 10 of 10"
+    }
+  ]
+}
