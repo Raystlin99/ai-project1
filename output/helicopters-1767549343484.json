@@ -1,0 +1,57 @@
+{
+  "title": "10 Mind-Blowing Facts About Helicopters",
+  "totalDuration": 75,
+  "backgroundMood": "exciting and technical",
+  "facts": [
+    {
+      "text": "The first powered, controlled, and sustained flight of a helicopter was made by Igor Sikorsky in 1939",
+      "voiceNarration": "Did you know? The first helicopter to fly was built by Igor Sikorsky in 1939!",
+      "imageDescription": "Igor Sikorsky standing next to his helicopter, flying over the ocean, vintage aircraft interior"
+    },
+    {
+      "text": "Helicopters can hover in place and fly forwards, backwards, and sideways",
+      "voiceNarration": "Helicopters have four main rotors that allow them to defy gravity and move in any direction!",
+      "imageDescription": "Helicopter hovering above a cityscape, aircraft silhouette against the sun"
+    },
+    {
+      "text": "The largest helicopter ever built is the Z-36 of the German Air Force during WWII",
+      "voiceNarration": "Get ready for the biggest chopper ever - the Z-36 was a massive helicopter used by the Germans in WWII!",
+      "imageDescription": "Z-36 helicopter flying overhead, military aircraft and personnel in the background"
+    },
+    {
+      "text": "The first civilian helicopter was introduced in 1947",
+      "voiceNarration": "Helicopters went commercial in 1947 - now we can fly to our destination with ease!",
+      "imageDescription": "1950s-style helicopter landing on a runway, vintage airport interior"
+    },
+    {
+      "text": "The fastest helicopter ever recorded was the Bell 407 with a speed of 240 knots",
+      "voiceNarration": "Meet the fastest civilian helicopter - reaching speeds over 280 km/h!",
+      "imageDescription": "Bell 407 flying at high speed, aircraft instruments and controls visible"
+    },
+    {
+      "text": "Helicopters use rotors to generate lift and propulsion",
+      "voiceNarration": "Helicopter rotors create the magic that lifts you off the ground - incredible engineering!",
+      "imageDescription": "Close-up of helicopter rotor blades spinning, detailed aircraft mechanics"
+    },
+    {
+      "text": "The first compound helicopter was developed in the 1940s",
+      "voiceNarration": "Compound helicopters have two rotors - now we can fly faster and more efficiently!",
+      "imageDescription": "1940s-style helicopter with a secondary rotor, vintage aircraft cockpit"
+    },
+    {
+      "text": "Helicopters are used for medical emergencies and evacuations all over the world",
+      "voiceNarration": "Helicopters save lives every day - from medical evacuations to disaster relief!",
+      "imageDescription": "Emergency medical helicopter landing on a rooftop, doctors and patients inside"
+    },
+    {
+      "text": "The longest helicopter flight lasted 1,100 hours in the 1970s",
+      "voiceNarration": "Helicopters can fly for days - an incredible feat of endurance!",
+      "imageDescription": "Long-distance helicopter flight with a map showing the route, aircraft instruments"
+    },
+    {
+      "text": "The first mass-produced helicopter was the Bell H-13 Sioux",
+      "voiceNarration": "Bell H-13 Sioux revolutionized helicopter manufacturing - now more helicopters than ever!",
+      "imageDescription": "Bell H-13 Sioux helicopter landing on a runway, modern aircraft factory interior"
+    }
+  ]
+}

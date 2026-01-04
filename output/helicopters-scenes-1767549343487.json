@@ -1,0 +1,97 @@
+{
+  "title": "10 Mind-Blowing Facts About Helicopters",
+  "totalDuration": 75,
+  "backgroundMood": "exciting and technical",
+  "scenes": [
+    {
+      "sceneId": 1,
+      "startTime": 0,
+      "endTime": 8,
+      "duration": 8,
+      "factText": "The first powered, controlled, and sustained flight of a helicopter was made by Igor Sikorsky in 1939",
+      "voiceNarration": "Did you know? The first helicopter to fly was built by Igor Sikorsky in 1939!",
+      "imagePrompt": "Igor Sikorsky standing next to his helicopter, flying over the ocean, vintage aircraft interior, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 1 of 10"
+    },
+    {
+      "sceneId": 2,
+      "startTime": 8,
+      "endTime": 16,
+      "duration": 8,
+      "factText": "Helicopters can hover in place and fly forwards, backwards, and sideways",
+      "voiceNarration": "Helicopters have four main rotors that allow them to defy gravity and move in any direction!",
+      "imagePrompt": "Helicopter hovering above a cityscape, aircraft silhouette against the sun, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 2 of 10"
+    },
+    {
+      "sceneId": 3,
+      "startTime": 16,
+      "endTime": 24,
+      "duration": 8,
+      "factText": "The largest helicopter ever built is the Z-36 of the German Air Force during WWII",
+      "voiceNarration": "Get ready for the biggest chopper ever - the Z-36 was a massive helicopter used by the Germans in WWII!",
+      "imagePrompt": "Z-36 helicopter flying overhead, military aircraft and personnel in the background, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 3 of 10"
+    },
+    {
+      "sceneId": 4,
+      "startTime": 24,
+      "endTime": 32,
+      "duration": 8,
+      "factText": "The first civilian helicopter was introduced in 1947",
+      "voiceNarration": "Helicopters went commercial in 1947 - now we can fly to our destination with ease!",
+      "imagePrompt": "1950s-style helicopter landing on a runway, vintage airport interior, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 4 of 10"
+    },
+    {
+      "sceneId": 5,
+      "startTime": 32,
+      "endTime": 40,
+      "duration": 8,
+      "factText": "The fastest helicopter ever recorded was the Bell 407 with a speed of 240 knots",
+      "voiceNarration": "Meet the fastest civilian helicopter - reaching speeds over 280 km/h!",
+      "imagePrompt": "Bell 407 flying at high speed, aircraft instruments and controls visible, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 5 of 10"
+    },
+    {
+      "sceneId": 6,
+      "startTime": 40,
+      "endTime": 47,
+      "duration": 7,
+      "factText": "Helicopters use rotors to generate lift and propulsion",
+      "voiceNarration": "Helicopter rotors create the magic that lifts you off the ground - incredible engineering!",
+      "imagePrompt": "Close-up of helicopter rotor blades spinning, detailed aircraft mechanics, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 6 of 10"
+    },
+    {
+      "sceneId": 7,
+      "startTime": 47,
+      "endTime": 54,
+      "duration": 7,
+      "factText": "The first compound helicopter was developed in the 1940s",
+      "voiceNarration": "Compound helicopters have two rotors - now we can fly faster and more efficiently!",
+      "imagePrompt": "1940s-style helicopter with a secondary rotor, vintage aircraft cockpit, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 7 of 10"
+    },
+    {
+      "sceneId": 8,
+      "startTime": 54,
+      "endTime": 61,
+      "duration": 7,
+      "factText": "Helicopters are used for medical emergencies and evacuations all over the world",
+      "voiceNarration": "Helicopters save lives every day - from medical evacuations to disaster relief!",
+      "imagePrompt": "Emergency medical helicopter landing on a rooftop, doctors and patients inside, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 8 of 10"
+    },
+    {
+      "sceneId": 9,
+      "startTime": 61,
+      "endTime": 68,
+      "duration": 7,
+      "factText": "The longest helicopter flight lasted 1,100 hours in the 1970s",
+      "voiceNarration": "Helicopters can fly for days - an incredible feat of endurance!",
+      "imagePrompt": "Long-distance helicopter flight with a map showing the route, aircraft instruments, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 9 of 10"
+    },
+    {
+      "sceneId": 10,
+      "startTime": 68,
+      "endTime": 75,
+      "duration": 7,
+      "factText": "The first mass-produced helicopter was the Bell H-13 Sioux",
+      "voiceNarration": "Bell H-13 Sioux revolutionized helicopter manufacturing - now more helicopters than ever!",
+      "imagePrompt": "Bell H-13 Sioux helicopter landing on a runway, modern aircraft factory interior, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 10 of 10"
+    }
+  ]
+}
