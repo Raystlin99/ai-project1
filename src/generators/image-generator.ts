@@ -83,24 +83,8 @@ export const generateImages = async (
   return imagePaths;
 };
 
-// Another way to generate images using OpenAI's image generation API
+// Other image generation APIs:
 // https://platform.openai.com/docs/guides/image-generation?api=image&lang=javascript&utm_source=chatgpt.com
+// https://github.com/saurav-z/free-image-generation-api?utm_source=chatgpt.com
+// https://www.imagegpt.online/models/free-image-generator-api?utm_source=chatgpt.com
 
-// import OpenAI from "openai";
-// import fs from "fs";
-// const openai = new OpenAI();
-
-// const prompt = `
-// A children's book drawing of a veterinarian using a stethoscope to 
-// listen to the heartbeat of a baby otter.
-// `;
-
-// const result = await openai.images.generate({
-//     model: "gpt-image-1",
-//     prompt,
-// });
-
-// // Save the image to a file
-// const image_base64 = result.data[0].b64_json;
-// const image_bytes = Buffer.from(image_base64, "base64");
-// fs.writeFileSync("otter.png", image_bytes);
