@@ -1,0 +1,97 @@
+{
+  "title": "10 Mind-Blowing Facts About Ancient Rome",
+  "totalDuration": 70,
+  "backgroundMood": "epic and historical",
+  "scenes": [
+    {
+      "sceneId": 1,
+      "startTime": 0,
+      "endTime": 7,
+      "duration": 7,
+      "factText": "Ancient Romans used urine as mouthwash due to its ammonia content",
+      "voiceNarration": "Did you know? Ancient Romans actually used urine as mouthwash because of its ammonia content!",
+      "imagePrompt": "A Roman citizen holding an amphora in an ancient bathhouse, classical architecture, historical painting style, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 1 of 10"
+    },
+    {
+      "sceneId": 2,
+      "startTime": 7,
+      "endTime": 14,
+      "duration": 7,
+      "factText": "The Colosseum could be filled with water for mock naval battles",
+      "voiceNarration": "The Colosseum wasn't just for gladiators - it could be flooded for epic naval battles!",
+      "imagePrompt": "The Roman Colosseum filled with water, ships engaged in battle, dramatic lighting, aerial view, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 2 of 10"
+    },
+    {
+      "sceneId": 3,
+      "startTime": 14,
+      "endTime": 21,
+      "duration": 7,
+      "factText": "Romans invented the first shopping mall, Trajan's Market",
+      "voiceNarration": "Romans invented the world's first shopping mall, called Trajan's Market, over 2000 years ago!",
+      "imagePrompt": "Trajan's Market bustling with merchants and shoppers, multi-level Roman architecture, vibrant market scene, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 3 of 10"
+    },
+    {
+      "sceneId": 4,
+      "startTime": 21,
+      "endTime": 28,
+      "duration": 7,
+      "factText": "Purple dye was worth more than gold in ancient Rome",
+      "voiceNarration": "In ancient Rome, purple dye was actually worth more than gold itself!",
+      "imagePrompt": "Roman emperor wearing purple toga, gold coins scattered, luxury palace interior, regal atmosphere, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 4 of 10"
+    },
+    {
+      "sceneId": 5,
+      "startTime": 28,
+      "endTime": 35,
+      "duration": 7,
+      "factText": "Romans used lead in their water pipes and cooking pots",
+      "voiceNarration": "Romans unknowingly poisoned themselves by using lead in their water pipes and cookware!",
+      "imagePrompt": "Ancient Roman aqueduct and lead pipes, water flowing, architectural engineering marvel, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 5 of 10"
+    },
+    {
+      "sceneId": 6,
+      "startTime": 35,
+      "endTime": 42,
+      "duration": 7,
+      "factText": "The Roman Empire lasted over 1000 years",
+      "voiceNarration": "The Roman Empire lasted for more than a thousand years, shaping Western civilization!",
+      "imagePrompt": "Timeline visualization showing Roman Empire expansion across Mediterranean, maps and dates, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 6 of 10"
+    },
+    {
+      "sceneId": 7,
+      "startTime": 42,
+      "endTime": 49,
+      "duration": 7,
+      "factText": "Gladiators were mostly slaves and prisoners of war",
+      "voiceNarration": "Most gladiators weren't heroes - they were slaves and prisoners forced to fight!",
+      "imagePrompt": "Gladiators in arena, crowd watching, dramatic combat scene, ancient Colosseum atmosphere, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 7 of 10"
+    },
+    {
+      "sceneId": 8,
+      "startTime": 49,
+      "endTime": 56,
+      "duration": 7,
+      "factText": "Romans ate dormice as a delicacy",
+      "voiceNarration": "Wealthy Romans considered dormice a delicacy and ate them at fancy banquets!",
+      "imagePrompt": "Roman banquet scene, elaborate feast, wealthy Romans dining, opulent setting, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 8 of 10"
+    },
+    {
+      "sceneId": 9,
+      "startTime": 56,
+      "endTime": 63,
+      "duration": 7,
+      "factText": "The Roman army built 50,000 miles of roads",
+      "voiceNarration": "The Roman army built an incredible 50,000 miles of roads across their empire!",
+      "imagePrompt": "Ancient Roman road stretching into distance, soldiers building, engineering achievement, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 9 of 10"
+    },
+    {
+      "sceneId": 10,
+      "startTime": 63,
+      "endTime": 70,
+      "duration": 7,
+      "factText": "Julius Caesar was stabbed 23 times by senators",
+      "voiceNarration": "Julius Caesar was betrayed and stabbed 23 times by his fellow senators!",
+      "imagePrompt": "Roman Senate chamber, dramatic assassination scene, historical moment, classical art style, cinematic, high quality, 1080x1920 vertical format, Instagram Reels optimized, professional photography, scene 10 of 10"
+    }
+  ]
+}

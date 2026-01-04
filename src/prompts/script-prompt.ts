@@ -1,0 +1,83 @@
+export const getScriptPrompt = (theme: string): string => {
+  return `You are an expert content creator for short-form educational videos. Generate a script for a 60-90 second Instagram Reel about "${theme}".
+
+CRITICAL REQUIREMENTS:
+- You MUST generate EXACTLY 10 facts - no more, no less
+- Each fact should be concise but impactful
+- Facts should be suitable for a general audience
+- Total video duration should be 60-90 seconds (6-9 seconds per fact)
+- Include a compelling title for the video
+- Describe the overall mood/atmosphere for background music
+
+OUTPUT FORMAT:
+You must respond with ONLY valid JSON matching this exact structure (no markdown, no code blocks, no explanatory text, just raw JSON):
+
+{
+  "title": "10 Mind-Blowing Facts About Ancient Rome",
+  "totalDuration": 70,
+  "backgroundMood": "epic and historical",
+  "facts": [
+    {
+      "text": "Ancient Romans used urine as mouthwash due to its ammonia content",
+      "voiceNarration": "Did you know? Ancient Romans actually used urine as mouthwash because of its ammonia content!",
+      "imageDescription": "A Roman citizen holding an amphora in an ancient bathhouse, classical architecture, historical painting style"
+    },
+    {
+      "text": "The Colosseum could be filled with water for mock naval battles",
+      "voiceNarration": "The Colosseum wasn't just for gladiators - it could be flooded for epic naval battles!",
+      "imageDescription": "The Roman Colosseum filled with water, ships engaged in battle, dramatic lighting, aerial view"
+    },
+    {
+      "text": "Romans invented the first shopping mall, Trajan's Market",
+      "voiceNarration": "Romans invented the world's first shopping mall, called Trajan's Market, over 2000 years ago!",
+      "imageDescription": "Trajan's Market bustling with merchants and shoppers, multi-level Roman architecture, vibrant market scene"
+    },
+    {
+      "text": "Purple dye was worth more than gold in ancient Rome",
+      "voiceNarration": "In ancient Rome, purple dye was actually worth more than gold itself!",
+      "imageDescription": "Roman emperor wearing purple toga, gold coins scattered, luxury palace interior, regal atmosphere"
+    },
+    {
+      "text": "Romans used lead in their water pipes and cooking pots",
+      "voiceNarration": "Romans unknowingly poisoned themselves by using lead in their water pipes and cookware!",
+      "imageDescription": "Ancient Roman aqueduct and lead pipes, water flowing, architectural engineering marvel"
+    },
+    {
+      "text": "The Roman Empire lasted over 1000 years",
+      "voiceNarration": "The Roman Empire lasted for more than a thousand years, shaping Western civilization!",
+      "imageDescription": "Timeline visualization showing Roman Empire expansion across Mediterranean, maps and dates"
+    },
+    {
+      "text": "Gladiators were mostly slaves and prisoners of war",
+      "voiceNarration": "Most gladiators weren't heroes - they were slaves and prisoners forced to fight!",
+      "imageDescription": "Gladiators in arena, crowd watching, dramatic combat scene, ancient Colosseum atmosphere"
+    },
+    {
+      "text": "Romans ate dormice as a delicacy",
+      "voiceNarration": "Wealthy Romans considered dormice a delicacy and ate them at fancy banquets!",
+      "imageDescription": "Roman banquet scene, elaborate feast, wealthy Romans dining, opulent setting"
+    },
+    {
+      "text": "The Roman army built 50,000 miles of roads",
+      "voiceNarration": "The Roman army built an incredible 50,000 miles of roads across their empire!",
+      "imageDescription": "Ancient Roman road stretching into distance, soldiers building, engineering achievement"
+    },
+    {
+      "text": "Julius Caesar was stabbed 23 times by senators",
+      "voiceNarration": "Julius Caesar was betrayed and stabbed 23 times by his fellow senators!",
+      "imageDescription": "Roman Senate chamber, dramatic assassination scene, historical moment, classical art style"
+    }
+  ]
+}
+
+IMPORTANT RULES:
+1. Return ONLY the JSON object - no markdown formatting, no code blocks, no additional text
+2. The facts array MUST contain EXACTLY 10 items
+3. All 10 facts must be accurate and verifiable about the topic
+4. voiceNarration should be conversational and enthusiastic
+5. imageDescription should be detailed and vivid for AI image generation
+6. Keep each fact family-friendly and appropriate for all ages
+7. totalDuration should be between 60-90 seconds
+
+Now generate the complete JSON with EXACTLY 10 facts for the topic: "${theme}"`;
+};
